@@ -61,5 +61,27 @@ The **Interactive Calculator** allows users to estimate the amount of MOFs requi
 
 ---
 
-## Repository Structure
+## Contributors
+
+- Prateek Kumar
+- MD Manjarul Haque (Designing)
+- Prof. Dr. Chirantan Sir (Valuable suggestions/feedback)
+  
+---
+
+## Acknowledgments
+
+- Royal Society of Chemistry for organizing the competition.
+- Dept of Chemistry, Amity University Kolkata for providing resources and support.
+
+---
+
+## Contact
+
+For questions or collaborations, please feel free to contact me:
+
+- **Email:** prateek.kumar17@s.amity.edu || kumarprateek1866@gmail.com
+- **GitHub:** [Prateekcandwill](https://github.com/Prateekcandwill)
+
+Thank you for visiting the repository! We hope you find the website and calculator useful. Feel free to explore, contribute, or provide feedback.
 
