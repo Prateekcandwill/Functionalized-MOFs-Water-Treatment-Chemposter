@@ -1,6 +1,6 @@
 # Functionalized-MOFs-Water-Treatment-Chemposter
 
-Please visit my website for ths [CALCULATOR](https://prateekcandwill.github.io/Functionalized-MOFs-Water-Treatment-Chemposter/calc.html) || [Website](https://prateekcandwill.github.io/Functionalized-MOFs-Water-Treatment-Chemposter/calc.html)
+Please visit these [CALCULATOR](https://prateekcandwill.github.io/Functionalized-MOFs-Water-Treatment-Chemposter/calc.html) || [Website](https://prateekcandwill.github.io/Functionalized-MOFs-Water-Treatment-Chemposter/calc.html) || [Presentation Video](https://youtu.be/D1iyhsauyNQ?si=IMx4dUTJmeFo9IuE)
 # Functionalized MOFs for Water Treatment
 
 Welcome to the GitHub repository for the **Functionalized Metal-Organic Frameworks (MOFs) for Water Treatment** project. This repository hosts the code and resources for the scientific poster and interactive website showcasing the use of MOFs for heavy metal removal from contaminated water.
